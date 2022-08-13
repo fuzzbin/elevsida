@@ -1,0 +1,3 @@
+# Tekniske veiledninger
+
+På denne siden vil det ligge informasjon om andre systemer som brukes. ViS, 2FA, FEIDE osv....

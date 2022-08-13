@@ -1,0 +1,37 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+
+format: jb-book
+root: docs/intro
+parts:
+- caption: Veiledninger
+  chapters:
+  - file: docs/office365/intro_office
+    sections:
+    - file: docs/office365/onedrive
+    - file: docs/office365/onenote
+    - file: docs/office365/teams
+    - file: docs/office365/word
+  - file: docs/digitopia/intro_digitopia
+    sections:
+    - file: docs/digitopia/spill_pc
+    - file: docs/digitopia/vr
+    - file: docs/digitopia/skriver_3d
+  - file: docs/systemer/systemer_intro
+    sections:
+    - file: docs/systemer/systemer_vis
+    - file: docs/systemer/systemer_feide
+    - file: docs/systemer/systemer_2fa
+    
+- caption: Studieteknikk
+  chapters:
+  - file: docs/studieteknikk/intro_studieteknikk
+  - file: docs/studieteknikk/studieveiledning_fagartikkel
+  - file: docs/studieteknikk/studieveiledning_kilder
+  - file: docs/studieteknikk/studieveiledning_rf
+    sections:
+    - file: docs/realfag/studieveiledning_realfag
+    - file: docs/realfag/studieveiledning_notasjon
+    - file: docs/realfag/studieveiledning_rapporter
+
