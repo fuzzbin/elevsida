@@ -1,2 +1,3 @@
 # digital_bvgs
- Nettstedet Digital@BVGS
+ Nettstedet elevsida.no
+ 
