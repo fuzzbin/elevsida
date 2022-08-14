@@ -3,11 +3,20 @@
 På denne siden vil det ligge informasjon om andre systemer som brukes. ViS, 2FA, FEIDE m.fl.
 
 ````{tab-set}
-```{tab-item} Tab 1 title
-My first tab
+```{tab-item} Fane 1
+Innhold i fane 1
 ```
 
-```{tab-item} Tab 2 title
-My second tab with `some code`!
+```{tab-item} Fane 2
+Innhold i fane 2 `print("Hello world!")`!
+```
+
+```{tab-item} Fane 3
+Innhold i fane 3
+
+$$
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+$$
+
 ```
 ````
