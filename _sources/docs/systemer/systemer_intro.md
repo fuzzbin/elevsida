@@ -2,6 +2,8 @@
 
 På denne siden vil det ligge informasjon om andre systemer som brukes. ViS, 2FA, FEIDE m.fl.
 
+Noen ganger kan det være nyttig å organisere informasjon i faner.
+
 ````{tab-set}
 ```{tab-item} Fane 1
 Innhold i fane 1
