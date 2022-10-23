@@ -14,6 +14,16 @@ html:
 sphinx:
   config:
     html_show_copyright: false
+    # html_theme: "furo"
+    #html_theme_options:
+    #  light_css_variables:
+    #    color-brand-primary: "blue*"
+    #    color-brand-content: "#CC3333"
+    #    color-admonition-background: "green"
+    #    color-background-primary: "#DDFFDD"
+
+  extra_extensions:
+   - sphinx_design
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
