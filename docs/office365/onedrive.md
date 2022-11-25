@@ -1,4 +1,4 @@
-# OneDrive
+clear# OneDrive
 
 **Med OneDrive har du alltid tilgang til filene dine, uansett hvor du er og hvilken maskin du bruker. Det er enkelt å dele filer med andre. Du finner OneDrive i filutforskeren på maskinen din.**
 

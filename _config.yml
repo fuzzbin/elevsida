@@ -9,7 +9,7 @@ logo: vtfk-hovedlogo-rgb.png
 html:
   extra_footer:
     <p>
-    ... Add license info here...
+    ... CC - BY SA...
     </p>
 sphinx:
   config:
