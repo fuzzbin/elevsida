@@ -2,10 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,700&display=swap');
 
 body {
-  background-color: blue;
     margin: 0;
     font-family: 'Nunito Sans', Lato, 'Trebuchet MS', sans-serif;
-    color: #ef0c0c;
+    color: #c7d52b;
   }
 
 p {
