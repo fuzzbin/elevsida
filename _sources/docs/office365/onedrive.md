@@ -1,6 +1,6 @@
 # OneDrive
 
-**Med OneDrive har du alltid tilgang til filene dine, uansett hvor du er og hvilken maskin du bruker. Det er enkelt å dele filer med andre. Du finner OneDrive i filutforskeren på maskinen din.**
+**Med OneDrive har du alltid tilgang til filene dine, uansett hvor du er og hvilken maskin du bruker. Det er enkelt å dele filer med andre. Du finner OneDrive i filutforskeren på maskinen din..**
 
 :::{figure-md} markdown-fig
 <img src="./media/OneDrive-filutforsker.png" alt="OneDrive i filutforskeren" width="80%">
