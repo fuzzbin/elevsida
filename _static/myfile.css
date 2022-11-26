@@ -4,9 +4,5 @@
 body {
     margin: 0;
     font-family: 'Nunito Sans', Lato, 'Trebuchet MS', sans-serif;
-    color: #c7d52b;
+    color: #0a0a0a;
   }
-
-p {
-    text-align: justify;
-}
