@@ -7,7 +7,7 @@ Målet er å gi både ansatte og elever et digitalt senter for å skape en arena
 :::{figure-md} markdown-fig
 <img src="./media/digitopia_1.jpeg" alt="Elev på digitopia" width="500px">
 
-Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
+Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh )
 :::
 
 Vi vil skape en sone som er fremtidsrettet, tverrfaglig og som gir dybdelæring. Alt i tråd med fagfornyelsen som kom høsten 2020. Sammen vil vi bli gode på bruk av digitalt utstyr og kunne bruke utstyret for å gjøre elevene våre mest mulig forberedt på det moderne yrkeslivet.
