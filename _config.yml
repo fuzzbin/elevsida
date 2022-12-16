@@ -14,7 +14,7 @@ html:
 sphinx:
   config:
     html_show_copyright: false
-    html_theme: "furo"
+    # html_theme: "furo"
     #html_theme_options:
     #  light_css_variables:
     #    color-brand-primary: "blue*"
